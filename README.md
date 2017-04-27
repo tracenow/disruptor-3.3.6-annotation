@@ -1,4 +1,4 @@
-# LMAX Disruptor源码阅读轨迹
+# LMAX Disruptor源码阅读列表
 
 ## 一、事件序列
 
